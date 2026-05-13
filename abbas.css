@@ -12,7 +12,7 @@ body {
   height: 100vh;
   margin: 0 auto;
 
-  background-image: url("bilder/gåte.png");
+  background-image: url("gåte.png");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -28,7 +28,7 @@ body {
   height: 100vh;
   margin: 0 auto;
 
-  background-image: url("bilder/room.png");
+  background-image: url("room.png");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
